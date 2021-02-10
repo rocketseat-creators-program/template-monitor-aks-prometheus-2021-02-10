@@ -1,2 +1,5 @@
-# template-monitor-aks-prometheus-2021-02-10
-Códigos e APIs de exemplo para os vídeos de monitoramento com Azure Monitor e Prometheus
+## [Template] Monitorando aplicações em tempo real com Azure Monitor e Prometheus
+
+*Esse repositório não contém o código finalizado e sim o template para dar início à aula.*
+
+Código do projeto finalizado: https://github.com/rocketseat-experts-club/monitor-aks-prometheus
