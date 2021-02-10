@@ -42,9 +42,10 @@ app.use(async (ctx, next) => {
     ctx.statusCode = 500
     ctx.body = {
       code: 500,
-      message: codes.INTERNAL_SERVER_ERROR
+      message: availableCodes.INTERNAL_SERVER_ERROR
     }
   }
 })
 
+console.log(`Listening on 3000`)
 app.listen(3000)
